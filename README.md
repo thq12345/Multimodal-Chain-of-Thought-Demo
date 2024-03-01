@@ -2,7 +2,7 @@
 
 ## Chain-of-Thought, explained in one sentence
 Multimodal Chain-of-Thought refers to Model providing rationale in addition to giving answer to a question and visual.
-![alt text](supporting_images/image1.png)
+![alt text](supporting_images/image.png)
 
 ### Why does it matter?
 It helps building explainable AI.
