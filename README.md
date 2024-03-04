@@ -33,7 +33,8 @@ ScienceQA dataset is a comprehensive resource aimed at **enhancing the capabilit
 ![alt text](supporting_images/pseudocode.png)
 
 ### Question: What is "gated fusion mechanism" (line 9)?
-I = \lambda \cdot H_{\text{language}} + (1 - \lambda) \cdot H_{\text{vision-attn}}
+I = $\lambda \cdot H_{\text{language}} + (1 - \lambda) \cdot H_{\text{vision-attn}}$
+
 
 ## Demonstration/Rant
 Refer to Jupyter Notebook. Conducted heavy source-code modification.
