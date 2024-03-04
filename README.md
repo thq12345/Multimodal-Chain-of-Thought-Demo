@@ -1,4 +1,5 @@
 # Multimodal Chain-of-Thought Reasoning in Language Models
+Author: Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola
 
 ## Chain-of-Thought, explained in one sentence
 Multimodal Chain-of-Thought refers to Model providing rationale in addition to giving answer to a question and visual.
